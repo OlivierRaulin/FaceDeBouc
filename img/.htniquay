@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule (.*) /erreur-404 [R=404]
